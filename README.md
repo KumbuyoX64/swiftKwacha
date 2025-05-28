@@ -1,8 +1,7 @@
 # SwiftKwacha
 
-SwiftKwacha is a modern digital wallet application designed for seamless money management. Built with .NET Core and React, it provides a secure and user-friendly platform for digital transactions.
+SwiftKwacha is a modern digital wallet demo application designed for seamless money management. Built with .NET Core and React, it provides a secure and user-friendly platform for digital transactions.
 
-![SwiftKwacha](https://via.placeholder.com/800x400?text=SwiftKwacha+Digital+Wallet)
 
 ## Features
 
@@ -134,13 +133,16 @@ Before you begin, ensure you have the following installed:
 ## Screenshots
 
 ### Login Page
-![Login Page](https://via.placeholder.com/600x300?text=Login+Page)
+![login](https://github.com/user-attachments/assets/7e83b7c7-0066-48e7-9955-ffcb7fb6f55b)
+
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/600x300?text=Dashboard)
+![dashboard](https://github.com/user-attachments/assets/62000156-6fa2-4435-bf1a-eb9212a03479)
+
 
 ### Transactions
-![Transactions](https://via.placeholder.com/600x300?text=Transactions)
+![transactions](https://github.com/user-attachments/assets/f13daa8c-52bc-4ce9-af8b-9963f85c32c7)
+
 
 ## Contributing
 
