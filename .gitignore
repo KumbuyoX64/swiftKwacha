@@ -1,0 +1,16 @@
+# Ignore backend build files
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Node modules and build artifacts
+swiftkwacha-client/node_modules/
+swiftkwacha-client/build/
+
+# Ignore environment files
+*.env
+appsettings*.json
